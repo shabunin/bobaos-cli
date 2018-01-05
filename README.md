@@ -27,20 +27,17 @@ bobaos-cli
 Now we are in interactive shell. First of all, get help:
 
 ```
-help
-```
-
-```
+bobaos> help
 Commands:
 
-help [command...]                   Provides help for a given command.
-exit                                Exits application.
-open [options]                      Open serial port
-getDatapointDescription [options]   GetDatapointDescription.Req service
-setDatapointValue [options]         SetDatapointValue.Req service with command "set and send to bus"
-readDatapointFromBus [options]      SetDatapointValue.Req service with command "read via bus"
-getDatapointValue [options]         GetDatapointValue.Req service
-getParameterByte [options]          GetParameterByte.Req service
+  help [command...]                   Provides help for a given command.
+  exit                                Exits application.
+  open [options]                      Open serial port
+  getDatapointDescription [options]   GetDatapointDescription.Req service
+  setDatapointValue [options]         SetDatapointValue.Req service with command "set and send to bus"
+  readDatapointFromBus [options]      SetDatapointValue.Req service with command "read via bus"
+  getDatapointValue [options]         GetDatapointValue.Req service
+  getParameterByte [options]          GetParameterByte.Req service
 ```
 
 Open port and then send any command you want. Example:
