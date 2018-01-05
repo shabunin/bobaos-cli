@@ -8,7 +8,7 @@ CLI tool to commicate with KNX BAOS 838 module kBerry.
 
 2. Install [KNX BAOS Module 838 kBerry](https://www.weinzierl.de/index.php/en/all-knx/knx-module-en/knx-baos-module-838-en) shield to your Raspberry Pi.
 
-3 [Set up serial port](https://github.com/weinzierl-engineering/baos/blob/master/docs/Raspbian.adoc#kberry)
+3. [Set up serial port](https://github.com/weinzierl-engineering/baos/blob/master/docs/Raspbian.adoc#kberry)
 
 4. Install nodejs, git
 ```sh
