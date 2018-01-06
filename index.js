@@ -45,7 +45,7 @@ vorpal
     } catch (e) {
       console.log(e);
     } finally {
-      callback();
+      setTimeout(callback, 500);
     }
   });
 
@@ -67,7 +67,7 @@ vorpal
     } catch (e) {
       console.log(e)
     } finally {
-      callback();
+      setTimeout(callback, 500);
     }
   });
 
@@ -98,7 +98,7 @@ vorpal
     } catch (e) {
       console.log(e);
     } finally {
-      callback();
+      setTimeout(callback, 500);
     }
   });
 
@@ -120,7 +120,7 @@ vorpal
     } catch (e) {
       console.log(e);
     } finally {
-      callback();
+      setTimeout(callback, 500);
     }
   });
 
@@ -142,7 +142,7 @@ vorpal
     } catch (e) {
       console.log(e);
     } finally {
-      callback();
+      setTimeout(callback, 500);
     }
   });
 
@@ -164,7 +164,7 @@ vorpal
     } catch (e) {
       console.log(e);
     } finally {
-      callback();
+      setTimeout(callback, 500);
     }
   });
 
