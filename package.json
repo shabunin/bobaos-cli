@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bobaos": "^1.0.4",
+    "bobaos": "^1.0.5",
     "knx-dpts-baos": "^1.0.0",
     "vorpal": "^1.12.0",
     "vorpal-repl": "^1.1.8"
