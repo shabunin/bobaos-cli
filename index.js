@@ -32,6 +32,9 @@ vorpal
       };
       // create bobaos instance
       app = new Baos(params);
+      app.on('open', function() {
+      	console.log("Port successfully opened.")
+      });
       // register callback
       app.on('service', function (data) {
         if (indication) {
