@@ -17,7 +17,7 @@ sudo apt-get install -y nodejs git
 ```
 5. Install this package globally:
 ```sh
-sudo npm install -g bobaos-cli
+sudo npm install -g bobaos-cli --unsafe-perm
 ```
 
 # Usage
