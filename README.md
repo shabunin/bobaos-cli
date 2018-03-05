@@ -1,4 +1,6 @@
-# bobaos-cli
+# bobaos-cli - DEPRECATED
+
+**DEPRECATED - please use [bdsd-cli](https://github.com/shabunin/bdsd-cli) instead.**
 
 CLI tool to commicate with KNX BAOS 838 module kBerry.
 
